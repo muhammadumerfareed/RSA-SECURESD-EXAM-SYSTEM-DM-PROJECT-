@@ -3,7 +3,11 @@
 > **An End-to-End Encrypted Assessment Portal implementing the RSA Cryptosystem in C++.**
 
 <img width="1034" height="2020" alt="_C__Users_HP_OneDrive_Desktop_poster html (5)" src="https://github.com/user-attachments/assets/64e753ae-5a65-43e4-85ce-c531a455fb5b" />
-
+<p align="center">
+  <a href="https://www.linkedin.com/posts/muhammad-umer-fareed-675557377_discretemathematics-rsa-cybersecurity-activity-7420501894357430272-2OkN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF0p8_kB2qk0wf18IejwkPYEZOLWdmhLmVA">
+    <img src="https://img.shields.io/badge/Watch_Demo_Video-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch on LinkedIn"/>
+  </a>
+</p>
 
 ![Language](https://img.shields.io/badge/Language-C++17-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Security](https://img.shields.io/badge/Security-RSA_Encryption-red?style=for-the-badge&logo=lock)
