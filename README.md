@@ -2,7 +2,7 @@
 
 > **An End-to-End Encrypted Assessment Portal implementing the RSA Cryptosystem in C++.**
 
-!<img width="1034" height="2020" alt="_C__Users_HP_OneDrive_Desktop_poster html (5)" src="https://github.com/user-attachments/assets/64e753ae-5a65-43e4-85ce-c531a455fb5b" />
+<img width="1034" height="2020" alt="_C__Users_HP_OneDrive_Desktop_poster html (5)" src="https://github.com/user-attachments/assets/64e753ae-5a65-43e4-85ce-c531a455fb5b" />
 
 
 ![Language](https://img.shields.io/badge/Language-C++17-00599C?style=for-the-badge&logo=c%2B%2B)
@@ -114,11 +114,19 @@ The system uses a custom file engine to ensure data survives after execution:
 
 ### 1. RSA Key Generation
 *Automatic generation of primes p, q and calculation of keys.*
-![Key Gen](https://via.placeholder.com/600x200?text=RSA+Key+Generation+Demo)
+<img width="851" height="937" alt="image" src="https://github.com/user-attachments/assets/8c069518-54dc-4585-b083-663cfa75ccc5" />
+
 
 ### 2. Encryption Demo
 *Visualizing how ASCII characters transform into Ciphertext.*
-![Encryption](https://via.placeholder.com/600x200?text=Encryption+Process+Visualized)
+<img width="1084" height="985" alt="image" src="https://github.com/user-attachments/assets/48f03c1e-4fbd-4b9e-bc30-016c99d41d76" />
+<img width="869" height="734" alt="image" src="https://github.com/user-attachments/assets/50b789f7-d3e6-4b38-869d-3b34bd27a807" />
+
+### 3. How Exams are stored?
+*The exams created by teachers is stored in Database in cyphertext to prevent tampering*
+<img width="1771" height="403" alt="image" src="https://github.com/user-attachments/assets/f8810dcc-8a29-4838-aa49-02b297ea222f" />
+
+
 
 ---
 
