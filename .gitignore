@@ -1,0 +1,22 @@
+# --- Compiled Binaries (Do NOT upload these) ---
+*.exe
+*.o
+*.obj
+*.dll
+
+# --- IDE & Editor Settings (Keep these local) ---
+.vscode/
+.idea/
+.vs/
+*.cbp
+*.layout
+*.depend
+*.user
+
+# --- OS Generated Files ---
+Thumbs.db
+.DS_Store
+
+# Note: We are intentionally NOT ignoring .txt files
+# because they act as your database (users.txt, packages.txt)
+# and we want them on GitHub so the project runs immediately.
